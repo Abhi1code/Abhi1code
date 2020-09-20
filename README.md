@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> , I am Abhishek! 
+I am a final year undergraduate student of Electrical Engineering Department of NIT Rourkela.
 
-<!--
-**Abhi1code/Abhi1code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 Currently working, learning and growing my skills in Android, Web and extension development.
+- 🤝 Open for collaborations in web, android and extension development projects.
+- 😊 Willing to contribute in open source development projects.
+- 💬 Ask me about anything [here](https://abhim.in)
+- 📫 How to reach me: <a href="mailto:mehariaabhishek@gmail.com">mehariaabhishek@gmail.com</a> 
+<br>
 
-Here are some ideas to get you started:
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1code" alt="Abhishek Meharia" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
